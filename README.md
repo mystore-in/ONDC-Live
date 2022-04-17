@@ -11,7 +11,7 @@ Configuration settings for ONDC Production (Live) Environment
 
 3. SwaggerHub endpoint for Registry onboarding for Soft Launch Participants
 
-`https://app.swaggerhub.com/apis/PROTEAN5/ONDC_NP/0.0.5`
+`https://app.swaggerhub.com/apis/PROTEAN5/ONDC_NP/0.0.6`
 
 4. SwaggerHub endpoint for ONDC Protocol
 
