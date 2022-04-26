@@ -7,7 +7,7 @@ Configuration settings for ONDC Production (Live) Environment
 
 2. Gateway end point
 
-`https://gateway.ondc.org/ondc/search`
+`https://gateway.ondc.org/search`
 
 3. SwaggerHub endpoint for Registry onboarding for Soft Launch Participants
 
